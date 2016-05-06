@@ -1,0 +1,16 @@
+#+TITLE: 10 years is no fucking joke
+#+DATE: 2016-04-30
+#+SETUPFILE: ~/Blog/org-sty/setupfile.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES: 
+#+JEKYLL_TAGS: 
+#+JEKYLL_PUBLISHED: true
+
+* 10 years and more to come
+
+I've gone through a long time to finally release my years of experience 
+as a targeted individual. For most of you would never know what a 
+targeted individual is. 
+
+
+{{{more}}}
