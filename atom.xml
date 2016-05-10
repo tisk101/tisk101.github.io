@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://tisk101.github.io/atom.xml" rel="self"/>
   <link href="http://tisk101.github.io/"/>
-  <updated>2016-05-02T08:40:13+08:00</updated>
+  <updated>2016-05-11T03:36:28+08:00</updated>
   <id>http://tisk101.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[10 Years Is No Fucking Joke]]></title>
+    <link href="http://tisk101.github.io/blog/2016/04/30/10-years-is-no-fucking-joke/"/>
+    <updated>2016-04-30T00:00:00+08:00</updated>
+    <id>http://tisk101.github.io/blog/2016/04/30/10-years-is-no-fucking-joke</id>
+    <content type="html"><![CDATA[<div id="outline-container-orgheadline1" class="outline-2">
+<h2 id="orgheadline1">10 years and more to come</h2>
+<div class="outline-text-2" id="text-orgheadline1">
+<p>
+I've gone through a long time to finally release my years of experience 
+as a targeted individual. For most of you would never know what a 
+targeted individual is. 
+</p>
+
+
+<p>
+<!-- more -->
+</p>
+</div>
+</div>
+]]></content>
+  </entry>
   
 </feed>
